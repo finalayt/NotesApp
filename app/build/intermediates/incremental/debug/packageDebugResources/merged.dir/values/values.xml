@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="categories">
+        <item>Работа</item>
+        <item>Учёба</item>
+        <item>Дом</item>
+        <item>Личное</item>
+        <item>Другое</item>
+    </string-array>
+    <color name="teal_500">#009688</color>
+    <color name="teal_700">#00796B</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="action_add">Добавить заметку</string>
+    <string name="action_delete">Удалить</string>
+    <string name="action_delete_all">Удалить все</string>
+    <string name="action_group">Группировать по категориям</string>
+    <string name="action_save">Сохранить</string>
+    <string name="action_search">Поиск</string>
+    <string name="action_sort">Сортировка</string>
+    <string name="app_name">Заметки</string>
+    <string name="dialog_delete_all_message">Это действие нельзя отменить.</string>
+    <string name="dialog_delete_all_title">Удалить все заметки?</string>
+    <string name="dialog_delete_title">Удалить заметку?</string>
+    <string name="empty_list">Заметок пока нет.\nНажмите «+», чтобы создать</string>
+    <string name="hint_description">Описание</string>
+    <string name="hint_title">Заголовок</string>
+    <string name="label_category">Категория</string>
+    <string name="no">Нет</string>
+    <string name="note_deleted">Заметка удалена</string>
+    <string name="note_not_found">Заметка не найдена</string>
+    <string name="nothing_found">Ничего не найдено</string>
+    <string name="search_hint">Поиск по заметкам</string>
+    <string name="sort_date_new">Сначала новые</string>
+    <string name="sort_date_old">Сначала старые</string>
+    <string name="sort_manual">Вручную (drag&amp;drop)</string>
+    <string name="sort_title">По заголовку (А–Я)</string>
+    <string name="title_edit_note">Редактирование</string>
+    <string name="title_new_note">Новая заметка</string>
+    <string name="title_required">Введите заголовок</string>
+    <string name="undo">Отменить</string>
+    <string name="yes">Да</string>
+    <style name="Theme.Notes" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/teal_700</item>
+        <item name="colorPrimaryVariant">@color/teal_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/teal_500</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/white</item>
+    </style>
+</resources>

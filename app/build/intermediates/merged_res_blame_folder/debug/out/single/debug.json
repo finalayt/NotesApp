@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "com.example.notes.app-merged_res-32:/layout_fragment_note_form.xml.flat",
+        "source": "com.example.notes.app-main-34:/layout/fragment_note_form.xml"
+    },
+    {
+        "merged": "com.example.notes.app-merged_res-32:/menu_menu_list.xml.flat",
+        "source": "com.example.notes.app-main-34:/menu/menu_list.xml"
+    },
+    {
+        "merged": "com.example.notes.app-merged_res-32:/layout_activity_main.xml.flat",
+        "source": "com.example.notes.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.notes.app-merged_res-32:/drawable_ic_delete.xml.flat",
+        "source": "com.example.notes.app-main-34:/drawable/ic_delete.xml"
+    },
+    {
+        "merged": "com.example.notes.app-merged_res-32:/menu_menu_form.xml.flat",
+        "source": "com.example.notes.app-main-34:/menu/menu_form.xml"
+    },
+    {
+        "merged": "com.example.notes.app-merged_res-32:/drawable_ic_sort.xml.flat",
+        "source": "com.example.notes.app-main-34:/drawable/ic_sort.xml"
+    },
+    {
+        "merged": "com.example.notes.app-merged_res-32:/layout_item_header.xml.flat",
+        "source": "com.example.notes.app-main-34:/layout/item_header.xml"
+    },
+    {
+        "merged": "com.example.notes.app-merged_res-32:/layout_fragment_note_list.xml.flat",
+        "source": "com.example.notes.app-main-34:/layout/fragment_note_list.xml"
+    },
+    {
+        "merged": "com.example.notes.app-merged_res-32:/drawable_ic_add.xml.flat",
+        "source": "com.example.notes.app-main-34:/drawable/ic_add.xml"
+    },
+    {
+        "merged": "com.example.notes.app-merged_res-32:/layout_item_note.xml.flat",
+        "source": "com.example.notes.app-main-34:/layout/item_note.xml"
+    },
+    {
+        "merged": "com.example.notes.app-merged_res-32:/drawable_ic_search.xml.flat",
+        "source": "com.example.notes.app-main-34:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "com.example.notes.app-merged_res-32:/drawable_ic_check.xml.flat",
+        "source": "com.example.notes.app-main-34:/drawable/ic_check.xml"
+    }
+]
